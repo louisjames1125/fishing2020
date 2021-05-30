@@ -1,0 +1,231 @@
+/* Navbar */
+
+#navbar {
+    height: 26%;
+}
+
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+}
+
+/* Showcase (Home) */
+
+#home-showcase {
+    height: 82vh;
+}
+
+#home-showcase .home-showcase-content {
+    color: #fff;
+    text-align: center;
+    padding-top: 25%;
+}
+
+/* Home Info */
+
+#home-info {
+    height: 73vh;
+}
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    width: 100%;
+    padding-bottom: 75px;
+    padding-top: 15%;
+}
+
+/* Features */
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+/* Gallery Info */
+
+#gallery-info {
+    height: 80vh;
+}
+
+#gallery-info .info-left, #gallery-info .info-right {
+    float: none;
+    width: 100%;
+}
+
+#gallery-info .info-left {
+    font-size: 1.9vh;
+}
+
+.large-heading {
+    text-align: center;
+}
+
+#gallery-info .info-right {
+    margin-top: 25px;
+}
+
+#gallery-info .info-right img {
+    height: 20vh;
+    width: 10vh;
+}
+
+/* Gallery */
+
+#gallery .box {
+    position: relative;
+    right: 21px;
+    bottom: 17px;
+}
+
+/* Fish Type */
+
+#fish-type #left-half .fish {
+    font-size: 1.345vh;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+#fish-type #left-half .fish p {
+    padding-right: 5px;
+}
+
+#fish-type #right-half .fish {
+    font-size: 1.345vh;
+    padding-top: 10px;
+    padding-left: 35px;
+}
+
+#fish-type #right-half .fish p {
+    padding-right: 25px;
+}
+
+#fish-type .fish p {
+    padding-top: 50px;
+}
+
+/* Fish Type (when clicked) */
+
+.fishType h1 {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.fishType h3 {
+    padding-left: 45%;
+}
+
+.fishType #biggestFish h3 {
+    padding-left: 60%;
+}
+
+.fishType img {
+    margin-left: 31%;
+    padding-bottom: 2vh;
+}
+
+.fishType #description h3 {
+    padding-left: 0%;
+}
+
+/* Contact Showcase */
+
+#contact-showcase {
+    height: 50vh;
+}
+
+#contact-showcase .contact-showcase-content {
+    padding-top: 111px;
+}
+
+#contact-showcase .contact-showcase-content h2 {
+    font-size: 7vw;
+}
+
+#contact-showcase .contact-showcase-content h1 {
+    font-size: 5vw;
+}
+
+/* Contact Info */
+
+#contact-info {
+    height: 28vh;
+    font-size: 2.5vw;
+}
+
+#contact-info .left-side {
+    display: none;
+}
+
+#contact-info .middle-side {
+    opacity: 1;
+    color: transparent;
+    background: url('../img/fishing/IMG_1781_blackAndWhite_.JPG') no-repeat center center/cover;
+    height: 28vh;
+}
+
+#contact-info .middle-side, #contact-info .left-right-side, #contact-info .right-right-side {
+    text-align: center;
+    padding-left: 5px;
+    padding-top: 20px;
+    height: 28vh;
+    width: 33.3%;
+}
+
+#contact-info .left-right-side span, #contact-info .right-right-side span {
+    text-decoration: underline #fff;
+}
+
+#contact-info .left-right-side span:hover, #contact-info .right-right-side span:hover {
+    color: #CD853F;
+    text-decoration: underline #CD853F;
+}
+
+#contact-info .left-right-side {
+    border-right: black dotted 1px;
+}
+
+#contact-info .left-right-side h3 {
+    padding-top: 25%;
+    padding-left: 2vw;
+}
+
+#contact-info .left-right-side i {
+    display: none;
+}
+
+#contact-info .left-right-side a {
+    padding-left: 2vw;
+}
+
+#contact-info .left-right-side p {
+    padding-left: 1vw;
+}
+
+#contact-info .right-right-side h3 {
+    padding-top: 25%;
+    padding-left: 2vw;
+}
+
+#contact-info .right-right-side i {
+    display: none;
+}
+
+#contact-info .right-right-side a {
+    padding-left: 2vw;
+}
+
+#contact-info .right-right-side p {
+    padding-left: 2vw;
+}
