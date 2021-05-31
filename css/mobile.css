@@ -79,6 +79,7 @@
 #gallery-info .info-right img {
     height: 20vh;
     width: 10vh;
+    padding-bottom: 1vh;
 }
 
 /* Gallery */
