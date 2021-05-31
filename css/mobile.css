@@ -123,17 +123,17 @@
     padding-bottom: 5vh;
 }
 
-.fishType h3 {
-    padding-left: 45%;
-}
-
 .fishType #biggestFish h3 {
-    padding-left: 60%;
+    padding-left: 75%;
 }
 
 .fishType img {
-    margin-left: 31%;
+    margin-left: 40%;
     padding-bottom: 2vh;
+}
+
+.fishType #location h3 {
+    padding-left: 45%;
 }
 
 .fishType #description h3 {
